@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+	color: #ffd966;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+	font-size: 20px;
+}
+a {
+    color: #00ff00;
+}
+a:hover{
+    color: goldenrod;
+    text-decoration: none;
+}
+h3{
+    font-family: 'Amatic SC', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+.btn{
+    width: 30px;
+    margin: 2px;
+	padding: 2px;
+}
+
+hr{
+    color: greenyellow;
+}
